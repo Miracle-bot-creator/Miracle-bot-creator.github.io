@@ -1,0 +1,71 @@
+{
+  "version": 2.8,
+  "requiredAtLeastFor": 2.77,
+  "description": {
+    "ru_RU": " <p style='font-family:Calibri-Bold; font-weight:500; font-size: 11px;'>Изменения в прошлых версиях:</p><p style='font-family:Calibri; margin-top:8px;font-size: 11px; color:#586858;'>- Встречайте Анимационные плащи!</p><p style='font-family:Calibri-Bold; font-weight:500; font-size: 11px;'>Изменения в данной версии:</p><p style='font-family:Calibri; margin-top:6px;font-size: 11px; color:#586858;'>- Авторизация под аккаунтами Microsoft. Внимание: Если входили в старой бета, то нужно пройти ещё раз авторизацию!</p><p style='font-family:Calibri; margin-top:6px;font-size: 11px; color:#586858;'>- Поддержка новых снапшотов!</p>",
+    "uk_UA": " <p style='font-family:Calibri-Bold; font-weight:500; font-size: 11px;'>Изменения в прошлых версиях:</p><p style='font-family:Calibri; margin-top:8px;font-size: 11px; color:#586858;'>- Встречайте Анимационные плащи!</p><p style='font-family:Calibri-Bold; font-weight:500; font-size: 11px;'>Изменения в данной версии:</p><p style='font-family:Calibri; margin-top:6px;font-size: 11px; color:#586858;'>- Авторизация под аккаунтами Microsoft. Внимание: Если входили в старой бета, то нужно пройти ещё раз авторизацию!</p><p style='font-family:Calibri; margin-top:6px;font-size: 11px; color:#586858;'>- Поддержка новых снапшотов!</p>",
+	"en_US": " <p style='font-family:Calibri-Bold; font-weight:500; font-size: 11px;'>Changes:</p><p style='font-family:Calibri; margin-top:8px;font-size: 11px; color:#585858;'>- Authorization under Microsoft accounts.</p><p style='font-family:Calibri; margin-top:6px;font-size: 11px; color:#586858;'>- To run Minecraft 1.17, you MUST agree to the update!</p>",
+    "de_DE": " <p style='font-family:Calibri-Bold; font-weight:500; font-size: 11px;'>Änderungen:</p><p style='font-family:Calibri; margin-top:8px;font-size: 11px; color:#585858;'>- Autorisierung unter Microsoft-Konten.</p><p style='font-family:Calibri; margin-top:6px;font-size: 11px; color:#586858;'>- Um Minecraft 1.17 auszuführen, MUSST du dem Update zustimmen!</p>",
+    "es_ES": " <p style='font-family:Calibri-Bold; font-weight:500; font-size: 11px;'>Cambios:</p><p style='font-family:Calibri; margin-top:8px;font-size: 11px; color:#585858;'>- Autorización bajo cuentas de Microsoft.</p><p style='font-family:Calibri; margin-top:6px;font-size: 11px; color:#586858;'>- Para ejecutar Minecraft 1.17, DEBE aceptar la actualización. </p>",
+    "fr_FR": " <p style='font-family:Calibri-Bold; font-weight:500; font-size: 11px;'>Changements:</p><p style='font-family:Calibri; margin-top:8px;font-size: 11px; color:#585858;'>- Autorisation sous comptes Microsoft.</p><p style='font-family:Calibri; margin-top:6px;font-size: 11px; color:#586858;'>- Pour exécuter Minecraft 1.17, vous DEVEZ accepter la mise à jour !</p>",
+    "it_IT": " <p style='font-family:Calibri-Bold; font-weight:500; font-size: 11px;'>Modifiche:</p><p style='font-family:Calibri; margin-top:8px;font-size: 11px; color:#585858;'>- Autorizzazione con account Microsoft.</p><p style='font-family:Calibri; margin-top:6px;font-size: 11px; color:#586858;'>- Per eseguire Minecraft 1.17, DEVI accettare l'aggiornamento! </p>",
+    "pl_PL": " <p style='font-family:Calibri-Bold; font-weight:500; font-size: 11px;'>Zmiany:</p><p style='font-family:Calibri; margin-top:8px;font-size: 11px; color:#585858;'>- Autoryzacja w ramach kont Microsoft.</p><p style='font-family:Calibri; margin-top:6px;font-size: 11px; color:#586858;'>- Aby uruchomić Minecraft 1.17, MUSISZ wyrazić zgodę na aktualizację! </p>",
+    "pt_PT": " <p style='font-family:Calibri-Bold; font-weight:500; font-size: 11px;'>Alterações:</p><p style='font-family:Calibri; margin-top:8px;font-size: 11px; color:#585858;'>- Autorização em contas da Microsoft.</p><p style='font-family:Calibri; margin-top:6px;font-size: 11px; color:#586858;'>- Para executar o Minecraft 1.17, você DEVE concordar com a atualização! </p>",
+    "ro_RO": " <p style='font-family:Calibri-Bold; font-weight:500; font-size: 11px;'>Schimbări:</p><p style='font-family:Calibri; margin-top:8px;font-size: 11px; color:#585858;'>- Autorizare în conturile Microsoft.</p><p style='font-family:Calibri; margin-top:6px;font-size: 11px; color:#586858;'>- Pentru a rula Minecraft 1.17, TREBUIE să fiți de acord cu actualizarea! </p>",
+    "zh_CN": " <p style='font-family:Calibri-Bold; font-weight:500; font-size: 11px;'>变化:</p><p style='font-family:Calibri; margin-top:8px;font-size: 11px; color:#585858;'>- Microsoft帐户下的授权</p><p style='font-family:Calibri; margin-top:6px;font-size: 11px; color:#586858;'>- 要运行 Minecraft 1.17，您必须同意更新！</p>"
+  },
+  "jarLinks": [
+    "http://repo.tlauncher.org/update/lch/TLauncher-2.8.jar",
+    "http://dl2.fastrepo.org/client/TLauncher-2.8.jar"
+  ],
+  "exeLinks": [
+    "http://repo.tlauncher.org/update/lch/TLauncher-2.8.exe",
+    "http://dl2.fastrepo.org/client/TLauncher-2.8.exe"
+  ],
+  "mandatory": false,
+
+  "updaterView": 2,
+  "updaterLaterInstall":false,
+  "offerDelay":28,
+  "offerEmptyCheckboxDelay":2,
+  "offers": [
+    {
+      "offer":"yabro",
+      "installer": "https://download.yandex.ru/yandex-pack/downloader/downloader.exe",
+      "args": {
+        "": "--partner 27460 --noaction 1",
+        "checkbox1": "--partner 27460 --distr /quiet /msicl \"YABROWSER=y ILIGHT=1 VID=4\"",
+        "checkbox2": "--partner 27460 --distr /quiet /msicl \"YAHOMEPAGE=y YAQSEARCH=y ILIGHT=1 VID=4\"",
+        "checkbox1+checkbox2": "--partner 27460 --distr /quiet /msicl \"YABROWSER=y YAHOMEPAGE=y YAQSEARCH=y ILIGHT=1 VID=4\""
+      },
+      "startCheckboxSouth": 225,
+      "checkBoxes": [
+        {
+          "name": "checkbox1",
+          "active": true,
+          "texts": {
+            "ru_RU": "<html>Загрузить и установить Яндекс.Браузер</html>"
+          }
+        },
+        {
+          "name": "checkbox2",
+          "active": true,
+          "texts": {
+            "ru_RU": "<html>Загрузить и установить настройки быстрого <br>доступа к поиску и сервисам Яндекса</html>"
+          }
+        }
+      ],
+      "topText": {
+        "ru_RU": "<div style='padding-left:43px;padding-right:23px;padding-top:19px;'><div style='padding-top:5px;'><img src='http://img.tlauncher.org/update/downloads/configs/client/images/logotypeya.png' width='187' height='38'/></div><p style='font-family:Calibri-Bold;weight:1000; font-size:12px; padding-top:12px;'><strong>Рекомендуем быстрый браузер от нашего партнёра Яндекс!</strong></p><p style='font-family:Calibri;font-size:12px; color:#8b7b44;' padding-top:11px;'>Игровой браузер в стиле Майнкрафт, с высоким быстродействием, быстрым доступом к ресурсам TLauncher и новостям Minecraft. Является лучшим решением на сегодняшний день!</p></div>"
+      },
+      "downText": {
+        "ru_RU": "<p style='font-family:Calibri; font-size:12px; color:#8a7a43; padding-bottom:13px; padding-left:43px;'><a style='color:#8a7a43;' href='https://yandex.ru/soft/distribution/'>Узнать подробности</a></p><p style='font-family:Calibri; font-size:12px; color:#8a7a43;  margin-top:-20px; padding-left:43px;'>Устанавливая рекомендуемое программное обеспечение, вы соглашаетесь с лицензионными соглашениями <a style='color:#8a7a43;' href='https://yandex.ru/legal/browser_agreement'>Яндекс Браузера</a> и <a style='color:#8a7a43;' href='https://yandex.ru/legal/desktop_software_agreement'>настольного ПО Яндекса</a>. </p>"
+      }
+    }
+  ],
+  "banners": {
+  },
+  "rootAccessExe":["http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/updater/TLauncherUpdater.exe"],
+  "aboveMandatoryVersion":2.7,
+  "mandatoryUpdatedVersions":[]
+}
