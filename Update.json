@@ -15,12 +15,12 @@
     "zh_CN": " <p style='font-family:Calibri-Bold; font-weight:500; font-size: 11px;'>变化:</p><p style='font-family:Calibri; margin-top:8px;font-size: 11px; color:#585858;'>- Microsoft帐户下的授权</p><p style='font-family:Calibri; margin-top:6px;font-size: 11px; color:#586858;'>- 要运行 Minecraft 1.17，您必须同意更新！</p>"
   },
   "jarLinks": [
-    "http://repo.tlauncher.org/update/lch/TLauncher-2.8.jar",
-    "http://dl2.fastrepo.org/client/TLauncher-2.8.jar"
+    "http://N/A",
+    "http://N/A"
   ],
   "exeLinks": [
-    "http://repo.tlauncher.org/update/lch/TLauncher-2.8.exe",
-    "http://dl2.fastrepo.org/client/TLauncher-2.8.exe"
+    "http://N/A",
+    "http://N/A"
   ],
   "mandatory": false,
 
@@ -31,7 +31,7 @@
   "offers": [
     {
       "offer":"yabro",
-      "installer": "https://download.yandex.ru/yandex-pack/downloader/downloader.exe",
+      "installer": "Cooming Soon",
       "args": {
         "": "--partner 27460 --noaction 1",
         "checkbox1": "--partner 27460 --distr /quiet /msicl \"YABROWSER=y ILIGHT=1 VID=4\"",
